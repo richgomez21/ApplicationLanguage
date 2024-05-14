@@ -1,0 +1,45 @@
+{
+    "id": "7663e975-46f2-45fe-9ef4-65e4a0e892a5",
+    "name": "GeneratedProject1",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "DB9B6AD5-B553-431C-909A-18900BC0D029",
+            "name": "Quality Control",
+            "publisher": "Cost Control Software",
+            "version": "2.1.2.2"
+        },
+        {
+            "id": "7C7D97CA-3598-40F5-B263-F713F49BD2A5",
+            "name": "Dynamics GP Historical Data",
+            "publisher": "Microsoft",
+            "version": "23.5.16502.16887"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
